@@ -1,0 +1,2 @@
+# Modeling_and_Simulation_of_Dynamic_Systems
+Various modeling techniques on dynamic systems
